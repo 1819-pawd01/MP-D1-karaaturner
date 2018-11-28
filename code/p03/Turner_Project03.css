@@ -1,0 +1,68 @@
+/*
+* Kara Turner
+* November 12, 2018
+* Project 03 - Schedule Table
+*/
+
+/* The universal selector */
+
+* {}
+
+/* Body attributes here */
+
+table {
+    text-align: center;
+}
+
+table,
+th,
+td {
+    border: 1px solid black;
+    border-collapse: collapse;
+    text-align: center;
+}
+
+h1 {
+    text-align: center;
+    color: white;
+}
+
+thead {
+    background-color: #66004d;
+}
+
+tbody {
+    background-color: #66004d;
+}
+tr:hover {
+    background-color: #ff66db;
+    color:black;
+}
+
+tfoot {
+    background-color: #66004d;
+}
+
+body {
+    color: white;
+    background: #ff99e7;
+}
+
+a:link {
+    color: white;
+    text-decoration: underline;
+}
+
+a:visited {
+    color: #331a00;
+}
+
+a:hover,
+a:focus {
+    color: #4d2800;
+    text-decoration: underline;
+}
+
+a:active {
+    color: #fff3e6;
+}

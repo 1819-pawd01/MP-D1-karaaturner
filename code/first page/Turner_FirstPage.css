@@ -1,0 +1,54 @@
+/*
+* Kara Turner
+* Due Date
+* First Project
+*/
+
+/* The universal selector */
+
+* {}
+
+/* Body attributes here */
+h1 {
+    
+    text-align: center;
+    color: #990099;
+    border: 1px solid black;
+    outline-style: solid;
+    outline-color: #990099;
+    
+}
+
+body {
+
+    background-color: #ffccff;
+    color: black;
+    font-family: monospace;
+    font-size: 115%;
+    
+}
+
+h2 {
+    
+    color: #990099;
+    
+}
+
+a:link {
+    color: #4d004d;
+    text-decoration: underline;
+}
+
+a:visited {
+    color: hotpink;
+}
+
+a:hover,
+a:focus {
+    color: #ffff1a;
+    text-decoration: underline;
+}
+
+a:active {
+    color: #000066;
+}

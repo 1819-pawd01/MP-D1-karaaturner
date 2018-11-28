@@ -1,0 +1,102 @@
+/*
+* Kara Turner
+* 10/29/18
+* Project 02- Panda Travel Agency
+*/
+
+/* The universal selector */
+
+* {}
+
+/* Body attributes here */
+
+header {
+
+    color: #fff3e6;
+
+}
+
+body {
+
+    background-color: #ffb566;
+    font-family: "Arial Black", Gadget, sans-serif;
+
+}
+
+p {
+
+    color: #fff3e6;
+
+}
+
+h1 {
+
+    color: #b35c00;
+    font-style: oblique;
+}
+
+h3 {
+
+    color: #b35c00;
+    
+}
+
+h4 {
+
+    color: #b35c00;
+
+}
+
+bq {
+
+    color: #fff3e6;
+
+}
+
+ul {
+
+    color: #fff3e6;
+
+}
+
+img {
+
+    height: 300px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+figcaption {
+
+    font-style: italic;
+    color: #b35c00;
+    text-align: center;
+
+}
+
+footer {
+
+    text-align: auto;
+    color: #fff3e6;
+
+}
+
+a:link {
+    color: #b35c00;
+    text-decoration: underline;
+}
+
+a:visited {
+    color: #331a00;
+}
+
+a:hover,
+a:focus {
+    color: #4d2800;
+    text-decoration: underline;
+}
+
+a:active {
+    color: #fff3e6;
+}

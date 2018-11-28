@@ -1,0 +1,49 @@
+/*
+* Kara Turner
+* 10/30/18
+* Lab 06 - Tables
+*/
+
+/* The universal selector */
+
+* {}
+
+/* Body attributes here */
+
+table {
+    text-align: center;
+}
+
+table,
+th,
+td {
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+
+body {
+    background-color: #e0e0eb;
+}
+
+th,
+td {
+    padding: 10px;
+}
+
+h1 {
+    text-align: center;
+}
+
+tr:hover {
+    background-color: #ff6666;
+    color: white;
+}
+
+body {
+    color: #14141f;
+}
+
+thead,
+tfoot {
+    background-color: #9292b9;
+}

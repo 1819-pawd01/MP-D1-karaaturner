@@ -1,0 +1,46 @@
+/*
+* Kara Turner
+* October 19, 2018
+* Lab 05 - My Favorite Things
+*/
+
+/* The universal selector */
+
+* {}
+
+/* Body attributes here */
+
+body {
+
+    background-color: #ffccdd;
+
+}
+
+h1 {
+
+    text-align: center;
+    color: #ff4d88;
+    font-style: oblique;
+}
+
+h3 {
+
+    color: #ff4d88;
+    text-align: center;
+}
+
+img {
+
+    height: 200px;
+    width: 25%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+figcaption {
+
+    font-style: italic;
+    color: #ff4d88;
+    text-align: center;
+}
